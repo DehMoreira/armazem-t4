@@ -1,0 +1,16 @@
+leite|0|0
+cafe|0|0
+agua|0|0
+leite|100|100
+agua|100|100
+cafe|100|100
+agua|100|99
+agua|100|89
+leite|100|70
+agua|100|59
+agua|100|58
+cafe|100|99
+cafe|100|98
+leite|100|65
+cafe|100|58
+agua|100|8

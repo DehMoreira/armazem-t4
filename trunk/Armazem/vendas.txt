@@ -1,0 +1,10 @@
+Deh	|agua	|1|0.5
+Darlene	|agua	|10|5.0
+Claiton	|leite	|30|30.0
+Claiton	|agua	|30|15.0
+Clair	|agua	|1|0.5
+Clair	|cafe	|1|2.0
+Deh	|cafe	|1|2.0
+Deh	|leite	|5|5.0
+Arlei	|cafe	|40|80.0
+Jaque	|agua	|50|25.0
